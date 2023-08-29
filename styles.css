@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:#bac3d1;
+}
+h1,h2{
+	color:Green;
+	text-align:center;
+}
+nav{
+	background-color:white;
+	text-align:left;
+}
+nav>ul>li{
+	display:inline;
+}
+a{
+	color:brown;
+	word-spacing:20px;
+}
